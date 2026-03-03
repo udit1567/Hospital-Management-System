@@ -1,3 +1,4 @@
 ._backend
 env
 ._*
+node_modules
